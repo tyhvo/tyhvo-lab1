@@ -1,0 +1,17 @@
+.time {
+    font-family: "oxygen";
+    font-size: 56px; 
+    color: #2DBDB1; 
+}
+
+.ampm {
+    font-family: "oxygen";
+    font-size: 15px; 
+    color: #2DBDB1; 
+}
+
+.date {
+    font-family: "oxygen";
+    font-size: 18px; 
+    color: #4B5853; 
+}
